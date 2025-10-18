@@ -25,15 +25,6 @@ Perfect for accessibility, touchless interfaces, or just showing off your comput
 
 ---
 
-## 🎥 Live Demo (Coming Soon)
-
-Imagine this:  
-You raise your hand. Your cursor follows.  
-You tap your fingers. A click registers.  
-No hardware. No gimmicks. Just code.
-
----
-
 ## 🧠 How It Works
 
 HoverPilot uses **MediaPipe’s 21-point hand landmark detection** to track your fingers and map their motion to screen coordinates.
