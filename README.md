@@ -1,4 +1,4 @@
-<h1 align="center">🖐️ HoverPilot</h1>
+<h1 align="center">🖐️ HoverPilot 🖱️</h1>
 <p align="center">
   <em>Control your computer with nothing but hand gestures. No mouse. No touch. Just magic.</em><br>
   <strong>Built with Python · OpenCV · MediaPipe · PyAutoGUI</strong>
