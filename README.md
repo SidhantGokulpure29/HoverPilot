@@ -1,12 +1,7 @@
-🖱️ HoverPilot – Control Your Mouse with Just Your Hand!
-
-
-Wave, point, and click — no physical mouse required!
-
 🌟 Overview
 
 HoverPilot is an AI-powered hand-tracking virtual mouse built with Python, OpenCV, MediaPipe, and PyAutoGUI.
-It uses your webcam to detect hand landmarks in real-time and lets you control your cursor with simple, intuitive gestures.
+It uses your webcam to detect hand landmarks in real-time and lets you control your cursor with intuitive gestures.
 
 Features:
 
@@ -22,8 +17,6 @@ Component	Description
 👁️ OpenCV	Webcam feed processing & visualization
 🖱️ PyAutoGUI	System-level cursor movement & clicks
 🐍 Python	Glue code connecting everything
-⚙️ Setup & Installation
-Prerequisites
 
 Python 3.8+ installed
 
@@ -65,24 +58,12 @@ Trigger system actions via PyAutoGUI (move, click, etc.)
 A simple yet powerful demonstration of AI-driven human-computer interaction.
 
 🚀 Future Improvements
-
 ✨ Add scroll & drag gestures
-
 🎯 Smooth cursor movement filters
-
 🤖 Multimodal control (voice + hand gestures)
-
 💻 Build a GUI toggle application
 
-📂 File Structure (Optional)
-HoverPilot/
-├─ hoverpilot.py
-├─ README.md
-├─ demo.gif
-├─ screenshots/
-│  ├─ hand_tracking.png
-│  └─ click_gesture.png
-└─ requirements.txt
+
 
 
 If you want, I can also create a version with sleek GitHub badges, live demo GIF placeholders, and a clickable "Run Locally" button so it looks ultra-professional and ready to impress recruiters.
